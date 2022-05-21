@@ -1,3 +1,9 @@
+import Header from "./components/Header";
+
 export default function App() {
-  return <h2 className="text-6xl font-title">Hello World</h2>;
+  return (
+    <>
+      <Header></Header>
+    </>
+  );
 }
