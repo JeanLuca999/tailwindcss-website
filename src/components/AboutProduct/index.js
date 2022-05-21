@@ -4,7 +4,7 @@ export default function AboutProduct() {
       <div className="mx-auto my-0 max-w-7xl w-11/12 grid grid-cols-1 grid-rows-auto1Fr lg:grid-cols-2 lg:grid-rows-1 gap-8">
         <div className="grid justify-center content-center">
           <div>
-            <h2 className="text-accent font-title font-bold md:text-5xl text-4xl mb-6">
+            <h2 className="text-accent font-title font-bold lg:text-5xl text-4xl mb-6">
               Solução de hospedagem com benefícios.
             </h2>
             <p className="text-2xl text-gray-900">
