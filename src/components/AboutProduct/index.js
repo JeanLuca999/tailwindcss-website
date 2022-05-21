@@ -7,10 +7,10 @@ export default function AboutProduct() {
             <h2 className="text-accent font-title font-bold md:text-5xl text-4xl mb-6">
               Solução de hospedagem com benefícios.
             </h2>
-            <p className="text-2xl">
+            <p className="text-2xl text-gray-900">
               Transforme suas ideias em realidade com Static.
             </p>
-            <p className="text-2xl">
+            <p className="text-2xl text-gray-900">
               Com muitos recursos poderosos, garantimos simplicidade e clareza.
             </p>
             <button className="cta mt-4 self-start">

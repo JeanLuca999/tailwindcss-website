@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="py-6 grid gap-3 grid-cols-1 grid-rows-auto1Fr lg:grid-cols-2 w-11/12 max-w-7xl mx-auto my-0">
       <div className="justify-center content-center grid">
         <div>
-          <h1 className="text-accent font-bold text-3xl md:text-6xl">
+          <h1 className="text-accent font-bold text-3xl md:text-6xl font-title">
             Solução de um clique para seu site estático.
           </h1>
 
