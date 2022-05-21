@@ -12,6 +12,10 @@ module.exports = {
       gridTemplateRows: {
         auto1Fr: "auto 1fr",
       },
+      maxWidth: {
+        cardWidth: "300px",
+        cardImgWidth: "200px",
+      },
     },
   },
   plugins: [],

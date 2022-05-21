@@ -17,8 +17,8 @@ export default function Testimonials() {
         </p>
 
         <div className="flex gap-2 flex-wrap justify-center mt-8">
-          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl w-56">
-            <figure className="w-11/12 aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
+          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl max-w-cardWidth w-full">
+            <figure className="w-11/12 max-w-cardImgWidth aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
               <img
                 src={man01}
                 alt="man"
@@ -41,8 +41,8 @@ export default function Testimonials() {
             </div>
           </div>
 
-          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl w-56">
-            <figure className="w-11/12 aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
+          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl w-full max-w-cardWidth">
+            <figure className="w-11/12 max-w-cardImgWidth aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
               <img
                 src={man01}
                 alt="man"
@@ -65,8 +65,8 @@ export default function Testimonials() {
             </div>
           </div>
 
-          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl w-56">
-            <figure className="w-11/12 aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
+          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl max-w-cardWidth w-full">
+            <figure className="w-11/12 max-w-cardImgWidth aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
               <img
                 src={man01}
                 alt="man"
@@ -89,8 +89,8 @@ export default function Testimonials() {
             </div>
           </div>
 
-          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl w-56">
-            <figure className="w-11/12 aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
+          <div className="bg-gray-200 p-4 pt-8 pb-8 rounded-xl max-w-cardWidth w-full">
+            <figure className="w-11/12 max-w-cardImgWidth aspect-square overflow-hidden rounded-full bg-white border-white border-8 mx-auto">
               <img
                 src={man01}
                 alt="man"
