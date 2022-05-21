@@ -9,6 +9,9 @@ module.exports = {
         body: ["Open Sans", "sans-serif"],
         title: ["Montserrat", "sans-serif"],
       },
+      gridTemplateRows: {
+        auto1Fr: "auto 1fr",
+      },
     },
   },
   plugins: [],
