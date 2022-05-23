@@ -2,6 +2,7 @@ import AboutProduct from "./components/AboutProduct";
 import BannerSection from "./components/BannerSection";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
+import PlansSection from "./components/PlansSection";
 import Testimonials from "./components/Testimonials";
 
 export default function App() {
@@ -12,6 +13,7 @@ export default function App() {
       <AboutProduct></AboutProduct>
       <BannerSection></BannerSection>
       <Testimonials></Testimonials>
+      <PlansSection></PlansSection>
     </>
   );
 }

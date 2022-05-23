@@ -11,10 +11,15 @@ module.exports = {
       },
       gridTemplateRows: {
         auto1Fr: "auto 1fr",
+        "1frAutoAuto": "1fr auto auto",
       },
       maxWidth: {
         cardWidth: "300px",
         cardImgWidth: "200px",
+      },
+      backgroundImage: {
+        correctImg: "url(/src/assets/correct.svg)",
+        hero: "url(/src/assets/herobanner.png)",
       },
     },
   },
